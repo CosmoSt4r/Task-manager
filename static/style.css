@@ -88,10 +88,10 @@ button {
   cursor: pointer;
 }
 
-.red {
+button.red {
   background-color: #f44336;
 }
 
-.blue {
+button.blue {
   background-color: #008CBA;
 }
