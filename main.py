@@ -39,9 +39,9 @@ def update(task_id):
     if request.method == 'POST':
         # POST
 
-        task.content = request.form['content']
-
+        task.task_text = request.form['task_text']
         db.session.commit()
+
         return redirect('/')
 
     else:
