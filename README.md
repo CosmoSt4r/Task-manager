@@ -43,3 +43,7 @@ python main.py
 ### Opening app in browser
 
 Open your browser and go to the `127.0.0.1:5000` address. You will see the login page.
+
+### Credits
+
+Inspired by [Flask Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&list=PLYqVE-1VuKv63jvgb3kvY1P63EAkfACTP) from [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) YouTube channel.
